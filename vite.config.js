@@ -12,4 +12,8 @@ export default defineConfig({
       },
     },
   },
+  base: '/Caracteristicas-celulares/',
+  build: {
+    outDir: 'build'
+  }
 });
