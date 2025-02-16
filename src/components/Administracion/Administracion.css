@@ -1,0 +1,36 @@
+.administracion-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .administracion-container h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+  }
+  
+  .estadisticas {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .estadistica {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    width: 45%;
+  }
+  
+  .estadistica h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .estadistica p {
+    font-size: 1.5rem;
+    color: #007bff;
+  }

@@ -1,0 +1,34 @@
+.card-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .card-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espacio entre tarjetas */
+    margin-bottom: 20px; /* Espacio entre filas */
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Espacio entre botones */
+    margin-top: 20px;
+  }
+  
+  .pagination-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .pagination-button:hover {
+    background-color: #0056b3;
+  }

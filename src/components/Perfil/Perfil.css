@@ -1,0 +1,29 @@
+.perfil-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .perfil-container h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+  }
+  
+  .perfil-info {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .info-item {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+  }
+  
+  .info-item strong {
+    color: #007bff;
+  }

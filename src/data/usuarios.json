@@ -1,0 +1,37 @@
+[
+    {
+      "id": 101,
+      "correo": "eefs93@hotmail.com",
+      "contrasena": "12345678",
+      "usuario": "EduarFz",
+      "tipo_usuario": "administrador"
+    },
+    {
+      "id": 102,
+      "correo": "ana.gomez@example.com",
+      "contrasena": "ana2024",
+      "usuario": "AnaG",
+      "tipo_usuario": "normal"
+    },
+    {
+      "id": 103,
+      "correo": "carlos.martin@example.com",
+      "contrasena": "carlos123",
+      "usuario": "CarlosM",
+      "tipo_usuario": "normal"
+    },
+    {
+      "id": 104,
+      "correo": "laura.rojas@example.com",
+      "contrasena": "laura2024",
+      "usuario": "LauraR",
+      "tipo_usuario": "normal"
+    },
+    {
+      "id": 105,
+      "correo": "david.perez@example.com",
+      "contrasena": "david1234",
+      "usuario": "DavidP",
+      "tipo_usuario": "normal"
+    }
+  ]
