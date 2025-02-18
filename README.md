@@ -1,8 +1,29 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Instrucciones para ejecutar el proyecto
 
-Currently, two official plugins are available:
+Este proyecto está desarrollado con **React** y utiliza **Vite** como herramienta de construcción. A continuación, se detallan los pasos necesarios para ejecutar el proyecto en tu entorno local.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requisitos previos
+
+Asegúrate de tener instalado lo siguiente en tu sistema:
+
+- **Node.js** 
+- **npm** 
+
+## Pasos para ejecutar el proyecto
+
+1. **Descomprimir el archivo `.zip`**:
+   Extrae el contenido del archivo `.zip` en una carpeta.
+
+2. **Abrir la terminal**:
+   Abre una terminal (o consola) y navega hasta la carpeta del proyecto descomprimido.
+
+3. **Instalamos los paquetes**:
+    npm install
+
+4. **Ejecutar el proyecto**:
+    npm run dev
+
+5. **Ver el proyecto en el navegador**
+    por lo general es http://localhost:5173
