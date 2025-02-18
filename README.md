@@ -20,7 +20,10 @@ Asegúrate de tener instalado lo siguiente en tu sistema:
    Abre una terminal (o consola) y navega hasta la carpeta del proyecto descomprimido.
 
 3. **Instalamos los paquetes**:
+   Descarga los paquetes de node... Te crea una carpeta node_modules
+
     npm install
+    
 
 4. **Ejecutar el proyecto**:
     npm run dev
